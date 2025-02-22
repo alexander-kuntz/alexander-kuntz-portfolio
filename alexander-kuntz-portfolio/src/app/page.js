@@ -2,7 +2,7 @@ export default function Home() { // bg-slate-900    |    cyan-900      |        
   return (
     <div className="bg-gradient-to-b from-slate-900 to-cyan-900 py-24 sm:py-32">
       <div className="mx-auto max-w-2xl px-6 lg:max-w-7xl lg:px-8">
-        <img className="rounded-full w-40 h-50 mx-auto border-4 border-cyan-300" src="/Kuntz-Profile-Photo.jpeg" alt="image description"></img>
+        <img className="rounded-full w-40 h-50 mb-8 mx-auto border-4 border-cyan-300" src="/Kuntz-Profile-Photo.jpeg" alt="image description"></img>
         <p className="mx-auto mt-2 max-w-lg text-center text-4xl font-semibold tracking-tight text-balance text-cyan-50 sm:text-5xl">
           Alexander Kuntz
         </p>
