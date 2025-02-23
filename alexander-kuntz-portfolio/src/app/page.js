@@ -7,6 +7,7 @@ export default function Home() { // bg-slate-900    |    cyan-900      |        
           Alexander Kuntz
         </p>
         <h2 className="text-center text-base/7 font-semibold text-cyan-300">Junior Software Developer</h2>
+        <Link href="https://github.com/alexander-kuntz">GitHub</Link>
         <div className="mt-10 grid gap-4 sm:mt-16 lg:grid-cols-3 lg:grid-rows-2">
           <div className="relative lg:row-span-2">
             <div className="absolute inset-px rounded-lg bg-slate-900 lg:rounded-l-[2rem] border-4 border-cyan-300"></div>
