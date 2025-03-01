@@ -1,7 +1,7 @@
 export default function Experience() { // Heavy utilization of: DaisyUI, Flowbite both for Tailwind CSS React Apps.
     return (
         <div className="tabs justify-center tabs-border">
-        <input type="radio" name="my_tabs_1" className="tab" aria-label="Work" />
+        <input type="radio" name="my_tabs_1" className="tab" aria-label="Work" defaultChecked />
         <div className="tab-content p-6">
         <div className="relative lg:row-span-2 justify-center">
                     <div className="absolute inset-px rounded-lg bg-slate-900 lg:rounded-[2rem] border-4 border-cyan-300 justify-center"></div>
@@ -49,7 +49,7 @@ export default function Experience() { // Heavy utilization of: DaisyUI, Flowbit
                 </div>
         </div>
       
-        <input type="radio" name="my_tabs_6" className="tab" aria-label="Education" defaultChecked />
+        <input type="radio" name="my_tabs_6" className="tab" aria-label="Education" />
         <div className="tab-content p-6">
         <div className="relative lg:row-span-2">
                     <div className="absolute inset-px rounded-lg bg-slate-900 lg:rounded-[2rem] border-4 border-cyan-300"></div>
