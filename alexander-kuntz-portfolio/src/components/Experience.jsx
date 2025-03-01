@@ -1,7 +1,7 @@
 export default function Experience() { // Heavy utilization of: DaisyUI, Flowbite both for Tailwind CSS React Apps.
     return (
         <div role="tablist" className="tabs tabs-bordered tabs-2xl justify-center">
-            <input type="radio" name="my_tabs_1" role="tab" className="tab" aria-label="Work" />
+            <input type="radio" name="my_tabs_1" role="tab" className="tab" aria-label="Work" defaultChecked/>
             <div role="tabpanel" className="tab-content p-10">
                 <div className="relative lg:row-span-2">
                     <div className="absolute inset-px rounded-lg bg-slate-900 lg:rounded-[2rem] border-4 border-cyan-300"></div>
