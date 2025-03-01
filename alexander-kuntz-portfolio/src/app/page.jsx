@@ -1,4 +1,5 @@
-import Link from 'next/link'
+import Experience from "@/components/Experience";
+import Link from 'next/link';
 
 export default function Home() { // bg-slate-900    |    cyan-900      |         text-cyan-300    | Border: border-4 border-cyan-300     |      Icons from below are from: https://tw-elements.com/docs/standard/components/social-buttons/
   return (
@@ -54,7 +55,9 @@ export default function Home() { // bg-slate-900    |    cyan-900      |        
         <p className="mx-auto max-w-lg text-center text-4xl font-semibold tracking-tight text-balance text-cyan-50 sm:text-5xl">
           Alexander Kuntz
         </p>
-        <h2 className="text-center text-base/7 font-semibold text-cyan-300">Junior Software Developer</h2>
+        <h2 className="text-center text-base/7 font-semibold text-cyan-300">Software Developer</h2>
+
+        <Experience/>
               
         <div className="mt-10 grid gap-4 sm:mt-16 lg:grid-cols-3 lg:grid-rows-2">
           <div className="relative lg:row-span-2">
