@@ -1,4 +1,5 @@
 import Experience from "@/components/Experience";
+import Projects from "@/components/Projects";
 import Link from 'next/link';
 
 export default function Home() { // bg-slate-900    |    cyan-900      |         text-cyan-300    | Border: border-4 border-cyan-300     |      Icons from below are from: https://tw-elements.com/docs/standard/components/social-buttons/
@@ -58,6 +59,7 @@ export default function Home() { // bg-slate-900    |    cyan-900      |        
         <h2 className="text-center text-base/7 font-semibold text-cyan-300">Software Developer</h2>
 
         <Experience/>
+        <Projects/>
               
         <div className="mt-10 grid gap-4 sm:mt-16 lg:grid-cols-3 lg:grid-rows-2">
           <div className="relative lg:row-span-2">

@@ -1,10 +1,10 @@
 export default function Experience() { // Heavy utilization of: DaisyUI, Flowbite both for Tailwind CSS React Apps.
     return (
-        <div role="tablist" className="tabs tabs-bordered tabs-2xl justify-center">
-            <input type="radio" name="my_tabs_1" role="tab" className="tab" aria-label="Work" defaultChecked/>
-            <div role="tabpanel" className="tab-content p-10">
-                <div className="relative lg:row-span-2">
-                    <div className="absolute inset-px rounded-lg bg-slate-900 lg:rounded-[2rem] border-4 border-cyan-300"></div>
+        <div className="tabs justify-center tabs-border">
+        <input type="radio" name="my_tabs_1" className="tab" aria-label="Work" />
+        <div className="tab-content p-6">
+        <div className="relative lg:row-span-2 justify-center">
+                    <div className="absolute inset-px rounded-lg bg-slate-900 lg:rounded-[2rem] border-4 border-cyan-300 justify-center"></div>
                         <div className="relative flex flex-col overflow-hidden rounded-[calc(var(--radius-lg)+1px)] lg:rounded-[calc(2rem+1px)]">
                             <div className="px-8 pt-8 pb-3 sm:px-10 sm:pt-10 sm:pb-0">
                                 <ol className="relative border-l border-gray-200 dark:border-cyan-200">                  
@@ -47,11 +47,11 @@ export default function Experience() { // Heavy utilization of: DaisyUI, Flowbit
                         </div>
                     </div>
                 </div>
-            </div>
-
-            <input type="radio" name="my_tabs_1" role="tab" className="tab" aria-label="Education" />
-            <div role="tabpanel" className="tab-content p-10">
-                <div className="relative lg:row-span-2">
+        </div>
+      
+        <input type="radio" name="my_tabs_6" className="tab" aria-label="Education" defaultChecked />
+        <div className="tab-content p-6">
+        <div className="relative lg:row-span-2">
                     <div className="absolute inset-px rounded-lg bg-slate-900 lg:rounded-[2rem] border-4 border-cyan-300"></div>
                         <div className="relative flex flex-col overflow-hidden rounded-[calc(var(--radius-lg)+1px)] lg:rounded-[calc(2rem+1px)]">
                             <div className="px-8 pt-8 pb-3 sm:px-10 sm:pt-10 sm:pb-0">
@@ -77,7 +77,8 @@ export default function Experience() { // Heavy utilization of: DaisyUI, Flowbit
                         </div>
                     </div>
                 </div>
-            </div>
         </div>
+      
+      </div>
     );
 }
