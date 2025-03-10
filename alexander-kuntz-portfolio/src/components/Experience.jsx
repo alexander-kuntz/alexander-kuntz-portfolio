@@ -13,8 +13,13 @@ export default function Experience() { // Heavy utilization of: DaisyUI, Flowbit
                                         <img className="rounded-full w-9 h-9 text-blue-800 dark:text-blue-300" aria-hidden="true" fill="currentColor" src="https://cdn.brandfetch.io/id-leti34J/w/240/h/240/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" />
                                     </span>
                                     <h3 className="ml-3 flex items-center mb-1 text-lg font-semibold text-gray-900 dark:text-white">SaskPower</h3>
-                                    <time className="block ml-3 mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">Released on January 13th, 2022</time>
-                                    <p className="ml-3 mb-4 text-base font-normal text-gray-500 dark:text-gray-400">Get access to over 20+ pages including a dashboard layout, charts, kanban board, calendar, and pre-order E-commerce & Marketing pages.</p>
+                                    <time className="block ml-3 mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">September 2024 - December 2024</time>
+                                    <ul className="list-disc ml-5 mb-4">
+                                        <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">Blah.</li>
+                                        <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">Blah.</li>
+                                        <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">Blah.</li>
+                                    </ul>
+                                
                                 </li>
 
                                 <li className="mb-10 ms-6">
@@ -22,8 +27,12 @@ export default function Experience() { // Heavy utilization of: DaisyUI, Flowbit
                                         <img className="rounded-full w-9 h-9 text-blue-800 dark:text-blue-300" aria-hidden="true" fill="currentColor" src="https://cdn.brandfetch.io/idvQfM_HC6/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" />
                                     </span>
                                     <h3 className="mb-1 ml-3 text-lg font-semibold text-gray-900 dark:text-white">SaskTel</h3>
-                                    <time className="block ml-3 mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">Released on December 7th, 2021</time>
-                                    <p className="ml-3 text-base font-normal text-gray-500 dark:text-gray-400">All of the pages and components are first designed in Figma and we keep a parity between the two versions even as we update the project.</p>
+                                    <time className="block ml-3 mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">May 2024 - August 2024</time>
+                                    <ul className="list-disc ml-5 mb-4">
+                                        <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">Blah.</li>
+                                        <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">Blah.</li>
+                                        <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">Blah.</li>
+                                    </ul>
                                 </li>
 
                                 <li className="mb-10 ms-6">
@@ -31,8 +40,12 @@ export default function Experience() { // Heavy utilization of: DaisyUI, Flowbit
                                         <img className="rounded-full w-9 h-9 text-blue-800 dark:text-blue-300" aria-hidden="true" fill="currentColor" src="https://cdn.brandfetch.io/idIu-Ji9Le/w/320/h/320/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" />
                                     </span>
                                     <h3 className="mb-1 ml-3 text-lg font-semibold text-gray-900 dark:text-white">Deloitte</h3>
-                                    <time className="block ml-3 mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">Released on December 2nd, 2021</time>
-                                    <p className="ml-3 text-base font-normal text-gray-500 dark:text-gray-400">Get started with dozens of web components and interactive elements built on top of Tailwind CSS.</p>
+                                    <time className="block ml-3 mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">May 2023 - August 2023</time>
+                                    <ul className="list-disc ml-5 mb-4">
+                                        <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">Blah.</li>
+                                        <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">Blah.</li>
+                                        <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">Blah.</li>
+                                    </ul>
                                 </li>
 
                                 <li className="mb-10 ms-6">
@@ -40,8 +53,12 @@ export default function Experience() { // Heavy utilization of: DaisyUI, Flowbit
                                         <img className="rounded-full w-9 h-9 text-blue-800 dark:text-blue-300" aria-hidden="true" fill="currentColor" src="https://cdn.brandfetch.io/idIu-Ji9Le/w/320/h/320/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" />
                                     </span>
                                     <h3 className="mb-1 ml-3 text-lg font-semibold text-gray-900 dark:text-white">Deloitte</h3>
-                                    <time className="block ml-3 mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">Released on December 2nd, 2021</time>
-                                    <p className="ml-3 text-base font-normal text-gray-500 dark:text-gray-400">Get started with dozens of web components and interactive elements built on top of Tailwind CSS.</p>
+                                    <time className="block ml-3 mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">May 2022 - August 2022</time>
+                                    <ul className="list-disc ml-5 mb-4">
+                                        <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">Blah.</li>
+                                        <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">Blah.</li>
+                                        <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">Blah.</li>
+                                    </ul>
                                 </li>
                             </ol>
                         </div>
@@ -61,8 +78,14 @@ export default function Experience() { // Heavy utilization of: DaisyUI, Flowbit
                                         <img className="rounded-full w-9 h-9 text-blue-800 dark:text-blue-300" aria-hidden="true" fill="currentColor" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvJ7egags1IMlMlCNN8By9QFbuKZgXygGMfA&s" />
                                     </span>
                                     <h3 className="ml-3 flex items-center mb-1 text-lg font-semibold text-gray-900 dark:text-white">Campion College - University of Regina</h3>
-                                    <time className="block ml-3 mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">Released on January 13th, 2022</time>
-                                    <p className="ml-3 mb-4 text-base font-normal text-gray-500 dark:text-gray-400">Get access to over 20+ pages including a dashboard layout, charts, kanban board, calendar, and pre-order E-commerce & Marketing pages.</p>
+                                    <time className="block ml-3 mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">September 2020 - April 2025</time>
+                                    <ul className="list-disc ml-5 mb-4">
+                                        <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">GPA of 87.71</li>
+                                        <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">Campion College Student Union President (1 year)</li>
+                                        <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">Campion Director at University of Regina Students' Union (2 years)</li>
+                                        <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">Vice President of Computer Science Students Society (2 years)</li>
+                                        <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">Member of Alpha Sigma Nu Scholastic Honour Society (3 years)</li>
+                                    </ul>
                                 </li>
 
                                 <li className="mb-10 ms-6">
@@ -70,8 +93,12 @@ export default function Experience() { // Heavy utilization of: DaisyUI, Flowbit
                                         <img className="rounded-full w-9 h-9 text-blue-800 dark:text-blue-300" aria-hidden="true" fill="currentColor" src="https://static.hudl.com/users/prod/9835599_b0d96c5976f34bd089c9691905243265.jpg" />
                                     </span>
                                     <h3 className="mb-1 ml-3 text-lg font-semibold text-gray-900 dark:text-white">Miller Comprehensive Catholic Highschool</h3>
-                                    <time className="block ml-3 mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">Released on December 7th, 2021</time>
-                                    <p className="ml-3 text-base font-normal text-gray-500 dark:text-gray-400">All of the pages and components are first designed in Figma and we keep a parity between the two versions even as we update the project.</p>
+                                    <time className="block ml-3 mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">September 2016 - June 2020</time>
+                                    <ul className="list-disc ml-5 mb-4">
+                                        <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">GPA of 99.41</li>
+                                        <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">Awarded the Governor General's Academic Medal (Bronze)</li>
+                                        <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">AP Scholar with Honor Award (Average of 3.25 on AP Exams and scored this on 4+ exams)</li>
+                                    </ul>
                                 </li>
                             </ol>
                         </div>
