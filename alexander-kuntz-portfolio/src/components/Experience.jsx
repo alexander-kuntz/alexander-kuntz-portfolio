@@ -1,7 +1,7 @@
 export default function Experience() { // Heavy utilization of: DaisyUI, Flowbite both for Tailwind CSS React Apps.
     return (
         <div className="tabs mt-10 justify-center tabs-border">
-            <input type="radio" name="exp_tabs" className="tab font-semibold text-cyan-300" aria-label="Work" defaultChecked />
+            <input type="radio" name="exp_tabs" className="tab font-semibold text-2xl text-cyan-300" aria-label="Work" defaultChecked />
             <div className="tab-content p-6">
                 <div className="relative lg:row-span-2 justify-center">
                     <div className="absolute inset-px rounded-lg bg-slate-900 lg:rounded-[2rem] border-4 border-cyan-300 justify-center"></div>
@@ -15,11 +15,18 @@ export default function Experience() { // Heavy utilization of: DaisyUI, Flowbit
                                     <h3 className="ml-3 flex items-center mb-1 text-lg font-semibold text-gray-900 dark:text-white">SaskPower</h3>
                                     <time className="block ml-3 mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">September 2024 - December 2024</time>
                                     <ul className="list-disc ml-5 mb-4">
-                                        <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">Blah.</li>
-                                        <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">Blah.</li>
-                                        <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">Blah.</li>
+                                        <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">Developed Power Apps and Power Automate solutions using Agile methodologies for business needs via
+                                            SharePoint</li>
+                                        <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">Created a procurement card requesting app for web/mobile that was roughly 70% faster than the previous
+                                            iteration, still used across the organization</li>
+                                        <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">Achieved such efficiencies by auto-filling application fields with database-queried information as well as
+                                            automating the notifications sent to managers</li>
+                                        <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">Facilitated user acceptance testing, pair programming, and unit tests with the business
+                                        </li>
+                                        <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">Tweaked multiple .NET codebases to squash various bugs
+                                        </li>
                                     </ul>
-                                
+
                                 </li>
 
                                 <li className="mb-10 ms-6">
@@ -29,9 +36,12 @@ export default function Experience() { // Heavy utilization of: DaisyUI, Flowbit
                                     <h3 className="mb-1 ml-3 text-lg font-semibold text-gray-900 dark:text-white">SaskTel</h3>
                                     <time className="block ml-3 mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">May 2024 - August 2024</time>
                                     <ul className="list-disc ml-5 mb-4">
-                                        <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">Blah.</li>
-                                        <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">Blah.</li>
-                                        <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">Blah.</li>
+                                        <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">Developed a search engine web app that queries 1000+ cell towers to help engineers find specific schematics
+                                            46% faster via a Python script running on GitLab CI/CD Pipelines, still used across the organization</li>
+                                        <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">Used Jinja2 templating to generate cell tower Excel Workbooks via relational database queries
+                                        </li>
+                                        <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">Removed hundreds of superfluous folders by compiling all the engineer’s documentation onto one markdown
+                                            webpage</li>
                                     </ul>
                                 </li>
 
@@ -42,9 +52,9 @@ export default function Experience() { // Heavy utilization of: DaisyUI, Flowbit
                                     <h3 className="mb-1 ml-3 text-lg font-semibold text-gray-900 dark:text-white">Deloitte</h3>
                                     <time className="block ml-3 mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">May 2023 - August 2023</time>
                                     <ul className="list-disc ml-5 mb-4">
-                                        <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">Blah.</li>
-                                        <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">Blah.</li>
-                                        <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">Blah.</li>
+                                        <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">Explored generative AI solutions and their applicability to various business models as research
+                                        </li>
+                                        <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">Consulted Purolator on IT architecture</li>
                                     </ul>
                                 </li>
 
@@ -55,9 +65,10 @@ export default function Experience() { // Heavy utilization of: DaisyUI, Flowbit
                                     <h3 className="mb-1 ml-3 text-lg font-semibold text-gray-900 dark:text-white">Deloitte</h3>
                                     <time className="block ml-3 mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">May 2022 - August 2022</time>
                                     <ul className="list-disc ml-5 mb-4">
-                                        <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">Blah.</li>
-                                        <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">Blah.</li>
-                                        <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">Blah.</li>
+                                        <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">Consulted Honda on IT solutions, attending multiple workshops with vendors spanning a week</li>
+                                        <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">Completed IT audits for Viterra</li>
+                                        <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">Competed in the Cultivator 24-Hour hackathon with the company, developed a prototype project with
+                                            Angular.js, Node.js, Bootstrap CSS, HTML, and JavaScript that won the People’s Choice Award</li>
                                     </ul>
                                 </li>
                             </ol>
@@ -66,7 +77,7 @@ export default function Experience() { // Heavy utilization of: DaisyUI, Flowbit
                 </div>
             </div>
 
-            <input type="radio" name="exp_tabs" className="tab font-semibold text-cyan-300" aria-label="Education" />
+            <input type="radio" name="exp_tabs" className="tab font-semibold text-2xl text-cyan-300" aria-label="Education" />
             <div className="tab-content p-6">
                 <div className="relative lg:row-span-2">
                     <div className="absolute inset-px rounded-lg bg-slate-900 lg:rounded-[2rem] border-4 border-cyan-300"></div>

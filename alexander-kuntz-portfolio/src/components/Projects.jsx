@@ -1,22 +1,23 @@
 export default function Projects() {
     return (
         <div>
-            <div className="mt-10 grid gap-4 sm:mt-16 lg:grid-cols-3 lg:grid-rows-2">
+            <h1 className="text-center text-3xl mt-14 font-semibold text-cyan-300 underline">Projects</h1>
+            <div className="mt-2 grid gap-4 sm:mt-7 lg:grid-cols-2 lg:grid-rows-1">
                 <div className="relative lg:row-span-1">
                     <div className="relative inset-px rounded-lg bg-slate-900 border-4 border-cyan-300">
 
                         <div className="card bg-slate-900 w-90">
 
-                            <img
-                                src="https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
-                                alt="Shoes" />
+                            <img className="h-50"
+                                src="https://www.ctvnews.ca/resizer/v2/ABSTDQNW6JBCKWPTDQ5TAEAAF4.jpg?smart=true&auth=067366e6e79f782337cf788b15157a5e672f2404b3797bc8b51fdb88b4262dfc&width=1020&height=573"
+                                alt="Procurement Card Requester Thumbnail" />
 
                             <div className="card-body">
                                 <h2 className="card-title text-cyan-200">
                                     <div className="badge mr-1 bg-orange-600">SaskPower</div>
                                     Procurement Card App
                                 </h2>
-                                <p className="mt-4 text-cyan-100">A card component has a figure, a body part, and inside body there are title and actions parts</p>
+                                <p className="mt-4 text-cyan-100">A procurement card requesting app that automatically sends acceptance notifications to higher-ups whenever an employee requests for a new business credit card. Information is auto-filled so the user only has to fill out 3 fields typically.</p>
                                 <div className="card-actions justify-end mt-4">
                                     <div className="badge badge-outline">Power Apps</div>
                                     <div className="badge badge-outline">Power Automate</div>
@@ -32,16 +33,16 @@ export default function Projects() {
                 <div className="relative inset-px rounded-lg bg-slate-900 border-4 border-cyan-300">
                     <div className="card bg-slate-900 w-90">
 
-                        <img
-                            src="https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
-                            alt="Shoes" />
+                        <img className="h-100"
+                            src="sasktel-project-pic.png"
+                            alt="Cell Tower Searcher Thumbnail" />
 
-                        <div className="card-body">
+                        <div className="card-body mt-2">
                             <h2 className="card-title text-cyan-200">
                                 <div className="badge mr-1 bg-pink-500">SaskTel</div>
                                 Cell Tower Search Engine App
                             </h2>
-                            <p className="mt-4 text-cyan-100">A card component has a figure, a body part, and inside body there are title and actions parts</p>
+                            <p className="mt-4 text-cyan-100">A search engine web app where engineers can search for cell towers within Saskatchewan and pull up all the schematic details. Complete with Google Maps coordinate integration as well as the ability to generate and download an Excel copy.</p>
                             <div className="card-actions justify-end mt-4">
                                 <div className="badge badge-outline">Python</div>
                                 <div className="badge badge-outline">MKDocs</div>
@@ -54,16 +55,16 @@ export default function Projects() {
                 <div className="relative inset-px rounded-lg bg-slate-900 border-4 border-cyan-300">
                     <div className="card bg-slate-900 w-90">
 
-                        <img
-                            src="https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
-                            alt="Shoes" />
+                        <img className=""
+                            src="deloitte-project-pic.png"
+                            alt="OurSide Thumbnail" />
 
                         <div className="card-body">
                             <h2 className="card-title text-cyan-200">
                                 <div className="badge mr-1 bg-lime-600">Deloitte</div>
                                 Carbon Credit Trading App
                             </h2>
-                            <p className="mt-4 text-cyan-100">A card component has a figure, a body part, and inside body there are title and actions parts</p>
+                            <p className="mt-4 text-cyan-100">A prototype app that won the 'People's Choice Award' at Cultivator's 24 Hour Hackathon event. Farmers would be able to trade and sell their Carbon Credits on a secure platform, complete with a news API that updated farmers on potential hazardous weather.</p>
                             <div className="card-actions justify-end mt-4">
                                 <div className="badge badge-outline">Angular</div>
                                 <div className="badge badge-outline">Node.js</div>
@@ -77,15 +78,15 @@ export default function Projects() {
                     <div className="card bg-slate-900 w-90">
 
                         <img
-                            src="https://i.gyazo.com/3ad0cb19147ef56dbc0c8be36fc9016d.png"
-                            alt="Shoes" />
+                            src="https://i.gyazo.com/15ef3d34d1063b89b563e6ba26ded6eb.png"
+                            alt="Film Finder Thumbnail" />
 
-                        <div className="card-body">
+                        <div className="card-body mt-5">
                             <h2 className="card-title text-cyan-200">
                                 <div className="badge mr-1 bg-cyan-600">Personal</div>
-                                Film Finder (Collab. Project)
+                                Film Finder
                             </h2>
-                            <p className="mt-4 text-cyan-100">Worked on a full-stack movie recommendation web-app that utilizes machine learning and language processing models to recommend users of the app new movies to watch.</p>
+                            <p className="mt-4 text-cyan-100">A full-stack movie recommendation web-app that utilizes machine learning and language processing models to recommend users of the app new movies to watch. Users have the ability to use the app without logging in to just generate reccomendations, or can log-in to rate movies they have watched, and comment on their friends ratings.</p>
                             <div className="card-actions justify-end mt-4">
                                 <div className="badge badge-outline">Next.js</div>
                                 <div className="badge badge-outline">React</div>
