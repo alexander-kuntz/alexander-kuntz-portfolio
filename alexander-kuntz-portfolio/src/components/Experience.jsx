@@ -12,8 +12,8 @@ export default function Experience() { // Heavy utilization of: DaisyUI, Flowbit
                                     <span className="absolute flex items-center justify-center w-10 h-10 bg-blue-100 rounded-full -start-5 ring-8 ring-gray-900 bg-cyan-300">
                                         <img className="rounded-full w-9 h-9 text-blue-800 text-blue-300" aria-hidden="true" fill="currentColor" src="https://cdn.brandfetch.io/id-leti34J/w/240/h/240/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" />
                                     </span>
-                                    <h3 className="ml-3 flex items-center mb-1 text-lg font-semibold text-gray-900 dark:text-white">SaskPower</h3>
-                                    <time className="block ml-3 mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">September 2024 - December 2024</time>
+                                    <h3 className="ml-3 flex items-center mb-1 text-lg font-semibold text-white">SaskPower</h3>
+                                    <time className="block ml-3 mb-2 text-sm font-normal leading-none text-gray-500">September 2024 - December 2024</time>
                                     <ul className="list-disc ml-5 mb-4">
                                         <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">Developed Power Apps and Power Automate solutions using Agile methodologies for business needs via
                                             SharePoint</li>
@@ -33,8 +33,8 @@ export default function Experience() { // Heavy utilization of: DaisyUI, Flowbit
                                     <span className="absolute flex items-center justify-center w-10 h-10 bg-blue-100 rounded-full -start-5 ring-8 ring-gray-900 bg-cyan-300">
                                         <img className="rounded-full w-9 h-9 text-blue-800 text-blue-300" aria-hidden="true" fill="currentColor" src="https://cdn.brandfetch.io/idvQfM_HC6/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" />
                                     </span>
-                                    <h3 className="mb-1 ml-3 text-lg font-semibold text-gray-900 dark:text-white">SaskTel</h3>
-                                    <time className="block ml-3 mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">May 2024 - August 2024</time>
+                                    <h3 className="mb-1 ml-3 text-lg font-semibold text-white">SaskTel</h3>
+                                    <time className="block ml-3 mb-2 text-sm font-normal leading-none text-gray-500">May 2024 - August 2024</time>
                                     <ul className="list-disc ml-5 mb-4">
                                         <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">Developed a search engine web app that queries 1000+ cell towers to help engineers find specific schematics
                                             46% faster via a Python script running on GitLab CI/CD Pipelines, still used across the organization</li>
@@ -49,8 +49,8 @@ export default function Experience() { // Heavy utilization of: DaisyUI, Flowbit
                                     <span className="absolute flex items-center justify-center w-10 h-10 bg-cyan-300 rounded-full -start-5 ring-8 ring-gray-900 bg-cyan-300">
                                         <img className="rounded-full w-9 h-9 text-blue-800 text-blue-300" aria-hidden="true" fill="currentColor" src="https://cdn.brandfetch.io/idIu-Ji9Le/w/320/h/320/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" />
                                     </span>
-                                    <h3 className="mb-1 ml-3 text-lg font-semibold text-gray-900 dark:text-white">Deloitte</h3>
-                                    <time className="block ml-3 mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">May 2023 - August 2023</time>
+                                    <h3 className="mb-1 ml-3 text-lg font-semibold text-white">Deloitte</h3>
+                                    <time className="block ml-3 mb-2 text-sm font-normal leading-none text-gray-500">May 2023 - August 2023</time>
                                     <ul className="list-disc ml-5 mb-4">
                                         <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">Explored generative AI solutions and their applicability to various business models as research
                                         </li>
@@ -62,8 +62,8 @@ export default function Experience() { // Heavy utilization of: DaisyUI, Flowbit
                                     <span className="absolute flex items-center justify-center w-10 h-10 bg-blue-100 rounded-full -start-5 ring-8 ring-gray-900 bg-cyan-300">
                                         <img className="rounded-full w-9 h-9 text-blue-800 text-blue-300" aria-hidden="true" fill="currentColor" src="https://cdn.brandfetch.io/idIu-Ji9Le/w/320/h/320/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" />
                                     </span>
-                                    <h3 className="mb-1 ml-3 text-lg font-semibold text-gray-900 dark:text-white">Deloitte</h3>
-                                    <time className="block ml-3 mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">May 2022 - August 2022</time>
+                                    <h3 className="mb-1 ml-3 text-lg font-semibold text-white">Deloitte</h3>
+                                    <time className="block ml-3 mb-2 text-sm font-normal leading-none text-gray-500">May 2022 - August 2022</time>
                                     <ul className="list-disc ml-5 mb-4">
                                         <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">Consulted Honda on IT solutions, attending multiple workshops with vendors spanning a week</li>
                                         <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">Completed IT audits for Viterra</li>
@@ -88,8 +88,8 @@ export default function Experience() { // Heavy utilization of: DaisyUI, Flowbit
                                     <span className="absolute flex items-center justify-center w-10 h-10 bg-blue-100 rounded-full -start-5 ring-8 ring-gray-900 bg-cyan-300">
                                         <img className="rounded-full w-9 h-9 text-blue-800 text-blue-300" aria-hidden="true" fill="currentColor" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvJ7egags1IMlMlCNN8By9QFbuKZgXygGMfA&s" />
                                     </span>
-                                    <h3 className="ml-3 flex items-center mb-1 text-lg font-semibold text-gray-900 dark:text-white">Campion College - University of Regina</h3>
-                                    <time className="block ml-3 mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">September 2020 - April 2025</time>
+                                    <h3 className="ml-3 flex items-center mb-1 text-lg font-semibold text-white">Campion College - University of Regina</h3>
+                                    <time className="block ml-3 mb-2 text-sm font-normal leading-none text-gray-500">September 2020 - April 2025</time>
                                     <ul className="list-disc ml-5 mb-4">
                                         <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">GPA of 87.71</li>
                                         <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">Campion College Student Union President (1 year)</li>
@@ -103,8 +103,8 @@ export default function Experience() { // Heavy utilization of: DaisyUI, Flowbit
                                     <span className="absolute flex items-center justify-center w-10 h-10 bg-blue-100 rounded-full -start-5 ring-8 ring-gray-900 bg-cyan-300">
                                         <img className="rounded-full w-9 h-9 text-blue-800 text-blue-300" aria-hidden="true" fill="currentColor" src="https://static.hudl.com/users/prod/9835599_b0d96c5976f34bd089c9691905243265.jpg" />
                                     </span>
-                                    <h3 className="mb-1 ml-3 text-lg font-semibold text-gray-900 dark:text-white">Miller Comprehensive Catholic Highschool</h3>
-                                    <time className="block ml-3 mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">September 2016 - June 2020</time>
+                                    <h3 className="mb-1 ml-3 text-lg font-semibold text-white">Miller Comprehensive Catholic Highschool</h3>
+                                    <time className="block ml-3 mb-2 text-sm font-normal leading-none text-gray-500">September 2016 - June 2020</time>
                                     <ul className="list-disc ml-5 mb-4">
                                         <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">GPA of 99.41</li>
                                         <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">Awarded the Governor General's Academic Medal (Bronze)</li>
