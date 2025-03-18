@@ -6,10 +6,10 @@ export default function Projects() {
                 <div className="relative lg:row-span-1">
                     <div className="relative inset-px rounded-lg bg-slate-900 border-4 border-cyan-300">
 
-                        <div className="card bg-slate-900 w-90">
+                        <div className="card bg-slate-900">
 
-                            <img className="h-50"
-                                src="https://www.ctvnews.ca/resizer/v2/ABSTDQNW6JBCKWPTDQ5TAEAAF4.jpg?smart=true&auth=067366e6e79f782337cf788b15157a5e672f2404b3797bc8b51fdb88b4262dfc&width=1020&height=573"
+                            <img className="aspect-[calc(4*1)/2.5] object-cover"
+                                src="https://i.gyazo.com/74519b663d452b2354e5cb754fed4f23.png"
                                 alt="Procurement Card Requester Thumbnail" />
 
                             <div className="card-body">
@@ -31,13 +31,13 @@ export default function Projects() {
                 </div>
 
                 <div className="relative inset-px rounded-lg bg-slate-900 border-4 border-cyan-300">
-                    <div className="card bg-slate-900 w-90">
+                    <div className="card bg-slate-900">
 
-                        <img className="h-100"
-                            src="sasktel-project-pic.png"
+                        <img className="aspect-[calc(4*1)/2.5] object-cover"
+                            src="https://i.gyazo.com/4b4619f6c09e671ebf29f04f6d962c0b.png"
                             alt="Cell Tower Searcher Thumbnail" />
 
-                        <div className="card-body mt-2">
+                        <div className="card-body">
                             <h2 className="card-title text-cyan-200">
                                 <div className="badge mr-1 bg-pink-500">SaskTel</div>
                                 Cell Tower Search Engine App
@@ -53,19 +53,17 @@ export default function Projects() {
                 </div>
 
                 <div className="relative inset-px rounded-lg bg-slate-900 border-4 border-cyan-300">
-                    <div className="card bg-slate-900 w-90">
-
-                        <img className=""
+                    <div className="card bg-slate-900">
+                        <img className="aspect-[calc(4*1)/2.5] object-cover"
                             src="deloitte-project-pic.png"
                             alt="OurSide Thumbnail" />
-
                         <div className="card-body">
                             <h2 className="card-title text-cyan-200">
                                 <div className="badge mr-1 bg-lime-600">Deloitte</div>
                                 Carbon Credit Trading App
                             </h2>
                             <p className="mt-4 text-cyan-100">A prototype app that won the 'People's Choice Award' at Cultivator's 24 Hour Hackathon event. Farmers would be able to trade and sell their Carbon Credits on a secure platform, complete with a news API that updated farmers on potential hazardous weather.</p>
-                            <div className="card-actions justify-end mt-4">
+                            <div className="card-actions justify-end mt-8">
                                 <div className="badge badge-outline">Angular</div>
                                 <div className="badge badge-outline">Node.js</div>
                                 <div className="badge badge-outline">JavaScript</div>
@@ -75,13 +73,13 @@ export default function Projects() {
                 </div>
 
                 <div className="relative inset-px rounded-lg bg-slate-900 border-4 border-cyan-300">
-                    <div className="card bg-slate-900 w-90">
+                    <div className="card bg-slate-900">
 
-                        <img
+                        <img className="aspect-[calc(4*1)/2.5] object-cover"
                             src="https://i.gyazo.com/15ef3d34d1063b89b563e6ba26ded6eb.png"
                             alt="Film Finder Thumbnail" />
 
-                        <div className="card-body mt-5">
+                        <div className="card-body">
                             <h2 className="card-title text-cyan-200">
                                 <div className="badge mr-1 bg-cyan-600">Personal</div>
                                 Film Finder

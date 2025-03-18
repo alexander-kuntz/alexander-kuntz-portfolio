@@ -54,7 +54,7 @@ export default function Experience() { // Heavy utilization of: DaisyUI, Flowbit
                                     <ul className="list-disc ml-5 mb-4">
                                         <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">Explored generative AI solutions and their applicability to various business models as research
                                         </li>
-                                        <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">Consulted Purolator on IT architecture</li>
+                                        <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">Consulted a global shipping company on IT architecture</li>
                                     </ul>
                                 </li>
 
@@ -65,8 +65,8 @@ export default function Experience() { // Heavy utilization of: DaisyUI, Flowbit
                                     <h3 className="mb-1 ml-3 text-lg font-semibold text-white">Deloitte</h3>
                                     <time className="block ml-3 mb-2 text-sm font-normal leading-none text-gray-500">May 2022 - August 2022</time>
                                     <ul className="list-disc ml-5 mb-4">
-                                        <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">Consulted Honda on IT solutions, attending multiple workshops with vendors spanning a week</li>
-                                        <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">Completed IT audits for Viterra</li>
+                                        <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">Consulted a global vehicle manufacturer on IT solutions, attending multiple workshops with vendors</li>
+                                        <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">Completed IT audits for a global agricultural corporation</li>
                                         <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">Competed in the Cultivator 24-Hour hackathon with the company, developed a prototype project with
                                             Angular.js, Node.js, Bootstrap CSS, HTML, and JavaScript that won the People’s Choice Award</li>
                                     </ul>
@@ -91,7 +91,7 @@ export default function Experience() { // Heavy utilization of: DaisyUI, Flowbit
                                     <h3 className="ml-3 flex items-center mb-1 text-lg font-semibold text-white">Campion College - University of Regina</h3>
                                     <time className="block ml-3 mb-2 text-sm font-normal leading-none text-gray-500">September 2020 - April 2025</time>
                                     <ul className="list-disc ml-5 mb-4">
-                                        <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">GPA of 87.71</li>
+                                        <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">GPA of 87.46</li>
                                         <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">Campion College Student Union President (1 year)</li>
                                         <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">Campion Director at University of Regina Students' Union (2 years)</li>
                                         <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">Vice President of Computer Science Students Society (2 years)</li>
