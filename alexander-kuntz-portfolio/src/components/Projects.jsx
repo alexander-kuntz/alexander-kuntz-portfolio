@@ -7,10 +7,12 @@ export default function Projects() {
                     <div className="relative inset-px rounded-lg bg-slate-900 border-4 border-cyan-300">
 
                         <div className="card bg-slate-900">
-
-                            <img className="aspect-[calc(4*1)/2.5] object-cover"
-                                src="https://i.gyazo.com/74519b663d452b2354e5cb754fed4f23.png"
-                                alt="Procurement Card Requester Thumbnail" />
+                            <figure>
+                                <img className="aspect-[calc(4*1)/2.5] object-cover"
+                                    src="https://electricalindustry.ca/wp-content/uploads/2023/05/Untitled-1-5.jpg"
+                                    alt="Procurement Card Requester Thumbnail" />
+                                <figcaption className="absolute px-2 text-xs text-white top-10">* No image available as to not breach company confidentiality policy *</figcaption>
+                            </figure>
 
                             <div className="card-body">
                                 <h2 className="card-title text-cyan-200">
