@@ -11,7 +11,7 @@ export default function Projects() {
                                 <img className="aspect-[calc(4*1)/2.5] object-cover"
                                     src="https://electricalindustry.ca/wp-content/uploads/2023/05/Untitled-1-5.jpg"
                                     alt="Procurement Card Requester Thumbnail" />
-                                <figcaption className="absolute px-2 text-xs text-white top-10">* No image available as to not breach company confidentiality policy *</figcaption>
+                                <figcaption className="absolute px-2 text-xs text-white top-2">* No image available as to not breach company confidentiality policy *</figcaption>
                             </figure>
 
                             <div className="card-body">
