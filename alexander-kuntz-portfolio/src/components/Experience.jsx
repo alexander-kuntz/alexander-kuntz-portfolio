@@ -8,6 +8,22 @@ export default function Experience() { // Heavy utilization of: DaisyUI, Flowbit
                     <div className="relative flex flex-col overflow-hidden rounded-[calc(var(--radius-lg)+1px)] lg:rounded-[calc(2rem+1px)]">
                         <div className="px-8 pt-8 pb-3 sm:px-10 sm:pt-10 sm:pb-0">
                             <ol className="relative border-l border-gray-200 border-cyan-200">
+
+                                <li className="mb-10 ms-6">
+                                    <span className="absolute flex items-center justify-center w-10 h-10 bg-blue-100 rounded-full -start-5 ring-8 ring-gray-900 bg-cyan-300">
+                                        <img className="rounded-full w-9 h-9 text-blue-800 text-blue-300" aria-hidden="true" fill="currentColor" src="https://www.sasktel.com/wps/wcm/connect/9d750314-b289-4223-b178-6a64f7ed7c9e/logos_230X230_sasktel_intl_2020.png?MOD=AJPERES&CACHEID=ROOTWORKSPACE-9d750314-b289-4223-b178-6a64f7ed7c9e-nhUon-T" />
+                                    </span>
+                                    <h3 className="mb-1 ml-3 text-lg font-semibold text-white">SaskTel International</h3>
+                                    <time className="block ml-3 mb-2 text-sm font-normal leading-none text-gray-500">May 2025 - May 2026</time>
+                                    <ul className="list-disc ml-5 mb-4">
+                                        <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">Developed hundreds of enhancements and bug fixes to the Optius OSS Suite, a service utilized by multiple
+prominent telecommunications and internet service provider juggernauts in the industry</li>
+                                        <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">Worked on front-end, back-end, and API with a team of developers to meet dynamic business requirements via
+Scrum methodologies</li>
+                                        <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">Delivered critical patches to correct errors in services according to the client’s needs</li>
+                                    </ul>
+                                </li>
+
                                 <li className="mb-10 ms-6">
                                     <span className="absolute flex items-center justify-center w-10 h-10 bg-blue-100 rounded-full -start-5 ring-8 ring-gray-900 bg-cyan-300">
                                         <img className="rounded-full w-9 h-9 text-blue-800 text-blue-300" aria-hidden="true" fill="currentColor" src="https://cdn.brandfetch.io/id-leti34J/w/240/h/240/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" />
@@ -89,9 +105,10 @@ export default function Experience() { // Heavy utilization of: DaisyUI, Flowbit
                                         <img className="rounded-full w-9 h-9 text-blue-800 text-blue-300" aria-hidden="true" fill="currentColor" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvJ7egags1IMlMlCNN8By9QFbuKZgXygGMfA&s" />
                                     </span>
                                     <h3 className="ml-3 flex items-center mb-1 text-lg font-semibold text-white">Campion College - University of Regina</h3>
-                                    <time className="block ml-3 mb-2 text-sm font-normal leading-none text-gray-500">September 2020 - April 2025</time>
+                                    <time className="block ml-3 mb-2 text-sm font-normal leading-none text-gray-500">September 2020 - May 2025</time>
                                     <ul className="list-disc ml-5 mb-4">
-                                        <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">GPA of 87.46</li>
+                                        <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">GPA of 87.37</li>
+                                        <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">Graduated with Co-op Program Designation (12+ months of Co-op work) and With Great Distinction</li>
                                         <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">Campion College Student Union President (1 year)</li>
                                         <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">Campion Director at University of Regina Students' Union (2 years)</li>
                                         <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">Vice President of Computer Science Students Society (2 years)</li>
