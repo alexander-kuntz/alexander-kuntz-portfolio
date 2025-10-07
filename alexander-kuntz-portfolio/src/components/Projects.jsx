@@ -4,31 +4,6 @@ export default function Projects() {
             <h1 className="text-center text-3xl mt-14 font-semibold text-cyan-300 underline">Projects</h1>
             <div className="mt-2 grid gap-4 sm:mt-7 lg:grid-cols-2 lg:grid-rows-1">
                 <div className="relative lg:row-span-1">
-
-                    <div className="relative inset-px rounded-lg bg-slate-900 border-4 border-cyan-300">
-
-                        <div className="card bg-slate-900">
-                            <figure>
-                                <img className="aspect-[calc(4*1)/2.5] object-cover"
-                                    src="https://sasktelinternational.com/wp-content/uploads/2021/06/New-Optius-Suite-Graphics-V2-1.jpg"
-                                    alt="Optius OSS SuiteThumbnail" />
-                            </figure>
-
-                            <div className="card-body">
-                                <h2 className="card-title text-cyan-200">
-                                    <div className="badge mr-1 bg-cyan-600">SaskTel International</div>
-                                    Optius OSS Suite
-                                </h2>
-                                <p className="mt-4 text-cyan-100">A telecommunications and internet service provider application that aids in operations. More info publically available here: https://sasktelinternational.com/optius-portfolio-oss-bss/</p>
-                                <div className="card-actions justify-end mt-4">
-                                    <div className="badge badge-outline">Java</div>
-                                    <div className="badge badge-outline">Oracle SQL DB</div>
-                                    <div className="badge badge-outline">JavaServer Faces</div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
                     <div className="relative inset-px rounded-lg bg-slate-900 border-4 border-cyan-300">
 
                         <div className="card bg-slate-900">
@@ -53,6 +28,7 @@ export default function Projects() {
                             </div>
                         </div>
                     </div>
+
                     <div className="pointer-events-none absolute inset-px rounded-lg ring-1 shadow-sm ring-black/5 lg:rounded-l-[2rem]"></div>
                 </div>
 
@@ -73,6 +49,26 @@ export default function Projects() {
                                 <div className="badge badge-outline">Python</div>
                                 <div className="badge badge-outline">MKDocs</div>
                                 <div className="badge badge-outline">SQL Server</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div className="relative inset-px rounded-lg bg-slate-900 border-4 border-cyan-300">
+                    <div className="card bg-slate-900">
+                        <img className="aspect-[calc(4*1)/2.5] object-cover"
+                            src="deloitte-project-pic.png"
+                            alt="OurSide Thumbnail" />
+                        <div className="card-body">
+                            <h2 className="card-title text-cyan-200">
+                                <div className="badge mr-1 bg-lime-600">Deloitte</div>
+                                Carbon Credit Trading App
+                            </h2>
+                            <p className="mt-4 text-cyan-100">A prototype app that won the 'People's Choice Award' at Cultivator's 24 Hour Hackathon event. Farmers would be able to trade and sell their Carbon Credits on a secure platform, complete with a news API that updated farmers on potential hazardous weather.</p>
+                            <div className="card-actions justify-end mt-8">
+                                <div className="badge badge-outline">Angular</div>
+                                <div className="badge badge-outline">Node.js</div>
+                                <div className="badge badge-outline">JavaScript</div>
                             </div>
                         </div>
                     </div>
