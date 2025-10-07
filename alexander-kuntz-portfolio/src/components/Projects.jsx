@@ -77,27 +77,7 @@ export default function Projects() {
                         </div>
                     </div>
                 </div>
-
-                <div className="relative inset-px rounded-lg bg-slate-900 border-4 border-cyan-300">
-                    <div className="card bg-slate-900">
-                        <img className="aspect-[calc(4*1)/2.5] object-cover"
-                            src="deloitte-project-pic.png"
-                            alt="OurSide Thumbnail" />
-                        <div className="card-body">
-                            <h2 className="card-title text-cyan-200">
-                                <div className="badge mr-1 bg-lime-600">Deloitte</div>
-                                Carbon Credit Trading App
-                            </h2>
-                            <p className="mt-4 text-cyan-100">A prototype app that won the 'People's Choice Award' at Cultivator's 24 Hour Hackathon event. Farmers would be able to trade and sell their Carbon Credits on a secure platform, complete with a news API that updated farmers on potential hazardous weather.</p>
-                            <div className="card-actions justify-end mt-8">
-                                <div className="badge badge-outline">Angular</div>
-                                <div className="badge badge-outline">Node.js</div>
-                                <div className="badge badge-outline">JavaScript</div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
+                
                 <div className="relative inset-px rounded-lg bg-slate-900 border-4 border-cyan-300">
                     <div className="card bg-slate-900">
 
