@@ -16,7 +16,7 @@ export default function Projects() {
 
                             <div className="card-body">
                                 <h2 className="card-title text-cyan-200">
-                                    <div className="badge mr-1 bg-orange-600">SaskTel International</div>
+                                    <div className="badge mr-1 bg-cyan-600">SaskTel International</div>
                                     Optius OSS Suite
                                 </h2>
                                 <p className="mt-4 text-cyan-100">A telecommunications and internet service provider application that aids in operations. More info publically available here: https://sasktelinternational.com/optius-portfolio-oss-bss/</p>
