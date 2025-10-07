@@ -27,7 +27,6 @@ export default function Projects() {
                                 </div>
                             </div>
                         </div>
-                        <div className="pointer-events-none absolute inset-px rounded-lg ring-1 shadow-sm ring-black/5 lg:rounded-l-[2rem]"></div>
                     </div>
 
                     <div className="relative inset-px rounded-lg bg-slate-900 border-4 border-cyan-300">
@@ -54,6 +53,7 @@ export default function Projects() {
                             </div>
                         </div>
                     </div>
+                    <div className="pointer-events-none absolute inset-px rounded-lg ring-1 shadow-sm ring-black/5 lg:rounded-l-[2rem]"></div>
                 </div>
 
                 <div className="relative inset-px rounded-lg bg-slate-900 border-4 border-cyan-300">
@@ -77,7 +77,7 @@ export default function Projects() {
                         </div>
                     </div>
                 </div>
-                
+
                 <div className="relative inset-px rounded-lg bg-slate-900 border-4 border-cyan-300">
                     <div className="card bg-slate-900">
 
