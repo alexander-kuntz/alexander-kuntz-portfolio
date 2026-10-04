@@ -14,7 +14,7 @@ export default function Experience() { // Heavy utilization of: DaisyUI, Flowbit
                                         <img className="rounded-full w-9 h-9 text-blue-800 text-blue-300" aria-hidden="true" fill="currentColor" src="https://www.sasktel.com/wps/wcm/connect/9d750314-b289-4223-b178-6a64f7ed7c9e/logos_230X230_sasktel_intl_2020.png?MOD=AJPERES&CACHEID=ROOTWORKSPACE-9d750314-b289-4223-b178-6a64f7ed7c9e-nhUon-T" />
                                     </span>
                                     <h3 className="mb-1 ml-3 text-lg font-semibold text-white">SaskTel International</h3>
-                                    <time className="block ml-3 mb-2 text-sm font-normal leading-none text-gray-500">May 2025 - May 2026</time>
+                                    <time className="block ml-3 mb-2 text-sm font-normal leading-none text-gray-500">May 2025 - Current</time>
                                     <ul className="list-disc ml-5 mb-4">
                                         <li className="ml-3 mb-1 text-base font-normal text-gray-500 dark:text-gray-400">Developed hundreds of enhancements and bug fixes to the Optius OSS Suite, a service utilized by multiple
 prominent telecommunications and internet service provider juggernauts in the industry</li>
