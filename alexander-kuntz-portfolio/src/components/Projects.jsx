@@ -63,7 +63,7 @@ export default function Projects() {
 
                         <div className="card-body">
                             <h2 className="card-title text-cyan-200">
-                                <div className="badge mr-1 bg-cyan-600">SaskTel International</div>
+                                <div className="badge mr-1 bg-cyan-600">SaskTel Int.</div>
                                 Optius OSS Suite
                             </h2>
                             <p className="mt-4 text-cyan-100">A telecommunications application that aids internet service providers in service operations. Manages heavy services regarding copper and fibre capabilities that facilitate service orders. Aids multiple ISP and telecom. juggernauts internationally (hence the name ;) ). More information publically available here: https://sasktelinternational.com/optius-portfolio-oss-bss/</p>
