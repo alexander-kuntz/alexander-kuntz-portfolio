@@ -36,7 +36,7 @@ export default function Projects() {
                     <div className="card bg-slate-900">
 
                         <img className="aspect-[calc(4*1)/2.5] object-cover"
-                            src="https://i.gyazo.com/4b4619f6c09e671ebf29f04f6d962c0b.png"
+                            src="/SaskTel-Searcher.png"
                             alt="Cell Tower Searcher Thumbnail" />
 
                         <div className="card-body">
@@ -80,7 +80,7 @@ export default function Projects() {
                     <div className="card bg-slate-900">
 
                         <img className="aspect-[calc(4*1)/2.5] object-cover"
-                            src="https://i.gyazo.com/15ef3d34d1063b89b563e6ba26ded6eb.png"
+                            src="/Film-Finder.png"
                             alt="Film Finder Thumbnail" />
 
                         <div className="card-body">
